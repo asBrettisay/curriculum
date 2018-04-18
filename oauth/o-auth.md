@@ -11,14 +11,14 @@ Here are links to lessons that should be completed before this lesson.
 - [Git version control](version-control/git-version-control/git-version-control.md)
 
 ### Motivation
-
+Web apps use authentication to harness powerful features for their users. Authentication is very difficult to implement correctly and safely. OAuth was created to allow users to authenticate through a third party, making authentication a more seamless experience and preventing the user from having to memorize yet another password.
 
 ### Objectives
-**Apprentices will be able to** do something that we'll list here:
-- Things
-- More things
-- Even more things
-- Even more things
+**Apprentices will be able to**
+- Understand local authentication and open authentication
+- Build a web app that uses open authentication
+- Understand sessions and tokens and how to use them effectively
+- How to secure a web server from unauthorized access
 
 ### Specific Things To Teach
 - Things about the things
